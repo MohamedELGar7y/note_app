@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+<<<<<<< HEAD
 import 'package:note_app/todo_app/todo_layout.dart';
+=======
+import 'package:note_app/presntation/screens/todo_layout.dart';
+>>>>>>> 2efa5f9 (Initial commit)
 
 void main() {
   runApp(const MyApp());
